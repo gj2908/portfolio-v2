@@ -29,7 +29,7 @@ export default function Home() {
           </div>
         </div>
         <div className="relative h-[350px] md:h-[450px] w-full max-w-[350px] md:max-w-[450px] mx-auto rounded-lg overflow-hidden animate-slide-in animate-float">
-          <Image src="/profile.jpg" alt="Gaurang Jadoun" fill className="object-cover" priority />
+          <Image src="/cropped.jpg" alt="Gaurang Jadoun" fill className="object-cover" priority />
         </div>
       </section>
 
