@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server"
 
+export const runtime = "edge"
+
 const HASHNODE_API = "https://api.hashnode.com"
 const HASHNODE_USERNAME = "your-hashnode-username" // Replace with your Hashnode username
 
